@@ -15,7 +15,6 @@ reproduced example 2-1 and 2-2
 
 # Activity 3
 reproduced example 3
-![Screenshot from 2023-09-20 12-38-42](https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/6ce807d9-48a5-4f23-a5fd-c87a3e486c5a)
 ![Screenshot from 2023-09-20 15-24-37](https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/d2215390-6b98-4b24-9c99-e7ac66560676)
 
 # Activity 4
