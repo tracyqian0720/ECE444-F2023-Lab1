@@ -24,5 +24,8 @@ reproduced example 3
 ![Screenshot from 2023-09-20 20-25-49](https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/2c50497a-4230-41f7-bd3a-96ededbe8571)
 ![Screenshot from 2023-09-20 20-26-14](https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/c3354c23-bfa3-4a58-9e1f-df2bd0f93f36)
 
+git log
+![Screenshot from 2023-09-21 11-35-05](https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/e4fe619e-4b69-4643-a4b3-ecdc0a4c31e2)
+
 
 
