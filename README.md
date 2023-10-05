@@ -11,8 +11,9 @@ succesfully installed docker
 
 
 # Activity 3
-reproduced example 3
-![Screenshot from 2023-09-20 15-24-37](https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/d2215390-6b98-4b24-9c99-e7ac66560676)
+done
+<img width="1037" alt="Screen Shot 2023-10-05 at 10 14 45 AM" src="https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/88ffb25d-0251-497b-b8a0-03806ea5e7d8">
+
 
 # Activity 4
 ![Screenshot from 2023-09-20 20-24-51](https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/fb6fff4e-6637-4133-922e-d31acad8fafa)
