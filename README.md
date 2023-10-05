@@ -16,14 +16,10 @@ done
 
 
 # Activity 4
-![Screenshot from 2023-09-20 20-24-51](https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/fb6fff4e-6637-4133-922e-d31acad8fafa)
-![Screenshot from 2023-09-20 16-08-56](https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/a8a34b27-0b7f-46cb-b12f-af5e8b639709)
-![Screenshot from 2023-09-20 20-25-17](https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/358f85e5-0efc-48f6-ba11-0ac7981f1f26)
-![Screenshot from 2023-09-20 20-25-49](https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/2c50497a-4230-41f7-bd3a-96ededbe8571)
-![Screenshot from 2023-09-20 20-26-14](https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/c3354c23-bfa3-4a58-9e1f-df2bd0f93f36)
+done
+<img width="1770" alt="Screen Shot 2023-10-05 at 10 47 43 AM" src="https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/8035831f-ef72-47d6-838a-1d10b3d9c101">
+<img width="1110" alt="Screen Shot 2023-10-05 at 10 48 06 AM" src="https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/fb587d78-6622-461c-9ee2-600b73faad9b">
 
-git log
-![Screenshot from 2023-09-21 11-35-05](https://github.com/tracyqian0720/ECE444-F2023-Lab1/assets/57376402/e4fe619e-4b69-4643-a4b3-ecdc0a4c31e2)
 
 
 
